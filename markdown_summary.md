@@ -1,4 +1,4 @@
-ENCABEZADOS
+HEADERS
 # My title h1
 ## My title h2
 ### My title h3
@@ -6,7 +6,7 @@ ENCABEZADOS
 ##### My title h5
 ###### My title h6
 ---
-TEXTOS
+TEXT
 
 this is an *italic* text
 
